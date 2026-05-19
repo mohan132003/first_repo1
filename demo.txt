@@ -1,3 +1,7 @@
+
 hey 
+=======
+hey ..
+>>>>>>> b1
 this is my first file in gitbash
 uptaded
