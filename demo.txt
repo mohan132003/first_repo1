@@ -1,7 +1,6 @@
-
 hey 
 
 hey ..
 
 this is my first file in gitbash
-uptaded
+update to main file
